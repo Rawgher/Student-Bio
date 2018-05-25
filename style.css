@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:lightslategray;
+    text-align: center;
+}
+h1 {
+    text-underline-position: below;
+    color: midnightblue;
+}
+h2 {
+    font-size: 50px;
+    color:goldenrod;
+    border:firebrick;
+}
+.picture {
+    size: 20px;
+}
